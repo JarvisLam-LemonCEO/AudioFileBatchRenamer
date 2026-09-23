@@ -1,4 +1,4 @@
-# Audio File Batch Renamer
+# Audio File Batch Renamer (From Downie4)
 
 A simple Python desktop application for batch renaming audio files with a graphical user interface.
 
